@@ -159,7 +159,7 @@ The final section builds a realistic mini-system that uses **every concept** fro
 
 ---
 
-## 🙋 FAQ
+## FAQ
 
 <details>
 <summary><strong>Do I need to install anything besides Jupyter?</strong></summary><br/>
@@ -178,7 +178,7 @@ Open an issue or submit a pull request. See the Contributing section below.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are warmly welcomed! If you spot a typo, think an explanation could be clearer, or want to add an exercise:
 
@@ -192,23 +192,7 @@ For larger changes, please open an issue first to discuss what you would like to
 
 ---
 
-## 📜 License
-
-This work is released under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
-You are free to use, modify, and distribute this material for any purpose, including commercial and educational use.
-
----
-
-## 🌟 Acknowledgments
-
-Inspired by the countless educators who have made Python OOP approachable over the years. Special thanks to the Python Software Foundation for maintaining such an elegant, teachable language.
-
----
-
 <div align="center">
-
-### If this tutorial helped you, please consider giving it a ⭐ on GitHub!
 
 *Happy coding.* 🐍
 
