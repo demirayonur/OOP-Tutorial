@@ -7,25 +7,23 @@
 
 [![Python](https://img.shields.io/badge/python-3.10+-3776ab.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-f37626.svg?logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Level: Beginner → Intermediate](https://img.shields.io/badge/level-beginner%20%E2%86%92%20intermediate-blue.svg)](#)
-[![Made with ❤️](https://img.shields.io/badge/made%20with-%E2%9D%A4%EF%B8%8F-red.svg)](#)
 
 </div>
 
 ---
 
-## 📚 Overview
+## Overview
 
 This repository contains a **self-contained, pedagogically-structured Jupyter notebook** that teaches Object-Oriented Programming (OOP) in Python from the ground up. It is designed for learners who already know basic Python (functions, lists, loops) but have **never written a class** before.
 
-The tutorial covers every core OOP concept, uses consistent, beginner-friendly examples throughout (books, shelves, libraries — plus a few rectangles, vectors, and temperatures), and culminates in a **capstone project** that ties every concept together: a mini **library management system** with abstract base classes, composition, properties, and operator overloading.
+The tutorial covers every core OOP concept, uses consistent, beginner-friendly examples throughout, and culminates in a **capstone project** that ties every concept together: a mini **library management system** with abstract base classes, composition, properties, and operator overloading.
 
 > **Time commitment:** ~2 hours of active reading + running cells + doing exercises.
 
 ---
 
-## ✨ What You Will Learn
+##  What You Will Learn
 
 <table>
 <tr>
@@ -47,7 +45,6 @@ The tutorial covers every core OOP concept, uses consistent, beginner-friendly e
 - ✅ Encapsulation & naming conventions
 - ✅ Abstract Base Classes (`abc` module)
 - ✅ Composition vs. inheritance
-- ✅ Method Resolution Order (MRO)
 - ✅ Operator overloading (`+`, `==`, `<`, `len`, `in`, `[]`, …)
 
 </td>
