@@ -117,12 +117,12 @@ jupyter notebook OOP_in_Python_Tutorial.ipynb
 ```
 ---
 
-## 🧠 How to Get the Most Out of This Tutorial
+## How to Get the Most Out of This Tutorial
 
 > **Read → Run → Break → Fix → Repeat.**
 
 1. **Read** each markdown cell carefully. The explanations are written to build intuition, not just list facts.
-2. **Run** every code cell yourself — don't just read the output.
+2. **Run** every code cell yourself. Don't just read the output.
 3. **Break** the code on purpose. Change a class variable to a list. Assign a negative value. See what happens.
 4. **Fix** it. That is where the real learning happens.
 5. **Do the exercises** before reading the solution in the next cell.
@@ -131,13 +131,12 @@ Each section is designed so you can stop, take a break, and come back without lo
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 oop-python-tutorial/
-├── OOP_in_Python_Tutorial.ipynb    ← the tutorial (start here)
+├── OOP_in_Python_Tutorial.ipynb     ← the tutorial (start here)
 ├── README.md                        ← you are here
-├── LICENSE                          ← MIT by default
 └── .gitignore                       ← standard Python .gitignore
 ```
 
