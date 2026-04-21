@@ -53,7 +53,7 @@ The tutorial covers every core OOP concept, uses consistent, beginner-friendly e
 
 ---
 
-## 🗺️ Notebook Roadmap
+## Notebook Roadmap
 
 ```
 0. Motivation — why do we need classes?
@@ -80,7 +80,7 @@ The tutorial covers every core OOP concept, uses consistent, beginner-friendly e
 7. Encapsulation & ABCs ────── _private, @abstractmethod, composition
      │
      ▼
-8. 🚀 Capstone: Library Management System
+8. Capstone: Library Management System
      │
      ▼
 9. Summary & further reading
@@ -90,18 +90,18 @@ Each section ends with a short **hands-on exercise** so you can test your unders
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
 - Python **3.10 or later**
 - `jupyter` (or an IDE with native notebook support such as VS Code or PyCharm)
 
-### Option 1 — Run locally (recommended)
+### Run locally (recommended)
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/<your-username>/oop-python-tutorial.git
+git clone https://github.com/demirayonur/OOP-Tutorial.git
 cd oop-python-tutorial
 
 # 2. (Optional but recommended) create a virtual environment
@@ -115,15 +115,6 @@ pip install jupyter
 # 4. Launch
 jupyter notebook OOP_in_Python_Tutorial.ipynb
 ```
-
-### Option 2 — Run in the browser (zero install)
-
-Click one of the badges below to open the notebook in a free, hosted environment:
-
-- **Binder** – [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/) (drop your repo URL on [mybinder.org](https://mybinder.org))
-- **Google Colab** – [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)  
-  In Colab, go to **File → Open notebook → GitHub** and paste your repo URL.
-
 ---
 
 ## 🧠 How to Get the Most Out of This Tutorial
