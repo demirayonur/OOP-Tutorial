@@ -142,30 +142,20 @@ oop-python-tutorial/
 
 ---
 
-## 🎯 Who Is This For?
 
-| Audience | Why this tutorial works for you |
-|---|---|
-| **CS / programming students** | First principled exposure to OOP, with every concept demonstrated *and* critiqued (including when *not* to use it). |
-| **Self-taught Python developers** | Fill the gaps. If you have been writing scripts for a while but never really "got" classes, this is for you. |
-| **Engineers transitioning to Python from another OOP language** | See how Python's duck typing, properties, and dunder methods differ from Java/C++/C# conventions. |
-| **Anyone preparing for technical interviews** | OOP design questions are ubiquitous. This tutorial covers the vocabulary and mental models they test for. |
-
----
-
-## 🏆 Capstone Project: Library Management System
+## Capstone Project: Library Management System
 
 The final section builds a realistic mini-system that uses **every concept** from the tutorial:
 
-- 🧱 **Abstract base class** (`LibraryItem`) with abstract methods
-- 🌳 **Inheritance tree**: `PrintBook`, `EBook`, `AudioBook`
-- 🔢 **Class-level ID counter** auto-assigning unique IDs
-- 🛡️ **Properties** with validation (page count, duration)
-- 🔄 **State management** (check-out / return logic)
-- 🎭 **Dunder methods** for equality, ordering, iteration, membership, and length
-- 🧩 **Composition**: a `Library` that *has* items rather than *is* one
-- 🏭 **Alternative constructor** via `@classmethod`
-- 🔍 **Static helper** via `@staticmethod`
+- **Abstract base class** (`LibraryItem`) with abstract methods
+- **Inheritance tree**: `PrintBook`, `EBook`, `AudioBook`
+- **Class-level ID counter** auto-assigning unique IDs
+- **Properties** with validation (page count, duration)
+- **State management** (check-out / return logic)
+- **Dunder methods** for equality, ordering, iteration, membership, and length
+- **Composition**: a `Library` that *has* items rather than *is* one
+- **Alternative constructor** via `@classmethod`
+- **Static helper** via `@staticmethod`
 
 By the end, you will have built something you can **read, extend, and be proud of** — not just toy snippets.
 
