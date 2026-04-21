@@ -157,8 +157,6 @@ The final section builds a realistic mini-system that uses **every concept** fro
 - **Alternative constructor** via `@classmethod`
 - **Static helper** via `@staticmethod`
 
-By the end, you will have built something you can **read, extend, and be proud of** — not just toy snippets.
-
 ---
 
 ## 🙋 FAQ
@@ -176,11 +174,6 @@ The tutorial uses modern type-hint syntax like <code>list[Book]</code> and <code
 <details>
 <summary><strong>I found a typo / have a suggestion. What should I do?</strong></summary><br/>
 Open an issue or submit a pull request. See the Contributing section below.
-</details>
-
-<details>
-<summary><strong>Can I use this material to teach a class?</strong></summary><br/>
-Yes, the MIT License permits use for teaching, including in paid courses. A credit link back to this repo is appreciated but not required.
 </details>
 
 ---
